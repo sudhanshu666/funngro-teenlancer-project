@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Funngro for Teens | Earn, Learn, and Grow</title>
+    <meta name="description" content="Join Funngro to work on real company projects, build your skills, and earn money as a teen. Start your professional journey today!">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">Funngro</div>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#how-it-works">How it Works</a></li>
+                <li><a href="company.html">For Companies</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Smart Teens, Real Projects</h1>
+            <p>Showcase your talent, work with real companies, and get paid for your skills. Your career starts here.</p>
+            <a href="#signup" class="cta-button">Join Funngro Now</a>
+        </div>
+    </section>
+
+    <section id="how-it-works" class="features">
+        <h2>How Funngro Works for You</h2>
+        <div class="feature-cards">
+            <div class="card">
+                <h3>1. Build Your Profile</h3>
+                <p>Highlight your skills, from web development to content creation.</p>
+            </div>
+            <div class="card">
+                <h3>2. Complete Projects</h3>
+                <p>Get matched with companies looking for your exact talents.</p>
+            </div>
+            <div class="card">
+                <h3>3. Earn & Grow</h3>
+                <p>Get paid for your hard work and build a resume before you even graduate.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Funngro Revamp Project. Built for talent.</p>
+    </footer>
+
+</body>
+</html>
